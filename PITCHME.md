@@ -1,82 +1,36 @@
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
-
-#### Get the word out
-<br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
-<br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab, Bitbucket, Gitea, Gogs, and GitBucket</span>
-
+### ドラッカー風エクササイズ
 ---
 
-### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
-<br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+### 目次( 2017/07/21 )
 
----
+1. 自分は何が得意なのか？
+2. どういうふうに仕事するか？
+3. 自分が大切に思う価値は何か？
+4. チームメンバーは自分にどんな成果を期待していると思うか？
 
-### No more <span style="color: #666666">Keynote.</span>
-### No more <span style="color: #666666">Powerpoint.</span>
-<br>
-### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.
++++
 
----
+### 1. 自分は何が得意なのか？
 
-<span style="color: #e49436">STEP 1. PITCHME.md</span>
+- 得意な言語等は特にありませんが強いて言えばPerl,PHPを長くやっています
+- 地道に黙々と仕事をするタイプです
+- ルーチンワークは嫌いではないです
+- コミュ障の極地なので顧客との調整が苦手です（お見合いになってしまいます）
 
-![MARKDOWN](https://d1z75bzl1vljy2.cloudfront.net/hello-world/markdown.png)
++++
 
-Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
+### 2. どういうふうに仕事するか？
 
----
+- 
 
-<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
++++
 
-![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
+### 3. 自分が大切に思う価値は何か？
 
-Git-commit on any branch and push your PITCHME.md to GitHub, GitLab, Bitbucket, Gitea, Gogs, or GitBucket.
+- 
 
----
++++
 
-<span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
+### 4. チームメンバーは自分にどんな成果を期待していると思うか？
 
-<br>
-
-<span style="font-size: 1.3em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">user</span>/<span style="color: #e49436">repo</span>/<span style="color: #e49436">branch</span></span>
-
-<br>
-
-Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
-
----
-
-<span style="color: #e49436">GIT</span>PITCH DESIGNED FOR SHARING
-
-![SOCIAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/gp-social.jpg)
-
-- View any slideshow at its public URL
-- Promote any slideshow using a GitHub badge
-- Embed any slideshow within a blog or website
-- Share any slideshow on Twitter, LinkedIn, etc
-- Print any slideshow as a PDF document
-- Download and present any slideshow offline
-
----
-
-<span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
-
-- GitHub Flavored Markdown +
-- Code Presenting for Blocks, Files, and GISTs
-- Image and Video Slides
-- Custom Logos and Backgrounds
-- Multiple Themes And More
-- <span style="color: #e49436">Plus...</span>
-- Your Slideshow Is Part Of Your Project
-- Under Git Version Control Within Your Git Repo
-
-
----
-
-### Go for it.
-### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
+- 成果を出すこと（今まで特に成果を出せていませんので・・・）
